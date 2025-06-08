@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package api;
-option go_package = "github.com/Samarth11-A/TaskList_proto/generated/api";
+option go_package = "github.com/Samarth11-A/TaskList_proto/api";
 
 // RPC methods for managing tasks
 service TaskList {
